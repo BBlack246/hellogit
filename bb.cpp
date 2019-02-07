@@ -19,6 +19,6 @@ for (int i-0;i< V2.size(); i++)
 cout<<V2{i}<<"" "";
 
 for (auto V:V2)
-cout<<V<"";
+cout<<V<<"";
 
 }
