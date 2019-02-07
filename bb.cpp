@@ -20,10 +20,10 @@ cout<<v2{i}<<"" "";
 for (auto v:v2)
 cout<<V<"";
 
-auto i=o;
-auto x = ou;
+auto i= "o";
+auto x = "ou";
 auto ch ="A"
-auto v3 = v2;
+auto v3 = "v2";
 
 #include<string>
 string s0;
